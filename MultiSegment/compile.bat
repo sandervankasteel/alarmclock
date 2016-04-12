@@ -1,0 +1,1 @@
+javac -cp .;RXTXcomm.jar Multisegment.java

@@ -1,0 +1,1 @@
+java -cp .;RXTXcomm.jar Multisegment COM3
